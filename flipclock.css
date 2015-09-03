@@ -1,5 +1,9 @@
 /* Get the bourbon mixin from http://bourbon.io */
 /* Reset */
+* {
+  margin: 0;
+  padding: 0;
+}
 
 body {
   background-color: #414141;
